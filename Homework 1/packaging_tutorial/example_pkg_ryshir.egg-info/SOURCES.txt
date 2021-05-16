@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+example_pkg_ryshir.egg-info/PKG-INFO
+example_pkg_ryshir.egg-info/SOURCES.txt
+example_pkg_ryshir.egg-info/dependency_links.txt
+example_pkg_ryshir.egg-info/top_level.txt
